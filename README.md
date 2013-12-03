@@ -34,3 +34,8 @@ Usage
 -----
 
 Simply execute `iOS Simulator Plus.app`. Once running, a status item (shown as a phone with a plus sign) for iOS Simulator Plus will become available in the status bar. Selecting `Activate iOS Simulator...` will activate the iOS Simulator -- for convenience. iOS Simulator Plus is only really active when iOS Simulator is active, that is to say that functionalities of iOS Simulator Plus is only enabled once iOS Simulator becomes active.
+
+Download
+--------
+
+[iOS-Simulator-Plus-1.0.zip](http://n3rd4n1.github.io/bin/iOS-Simulator-Plus-1.0.zip)
