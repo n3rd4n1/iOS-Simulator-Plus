@@ -1,7 +1,7 @@
 iOS Simulator Plus
 ==================
 
-A background utility that aims to simplify and improve interaction with the iOS Simulator through the trackpad.
+A background utility that aims to simplify and improve interaction with the iOS Simulator on the trackpad.
 
 Hardware Interaction
 --------------------
